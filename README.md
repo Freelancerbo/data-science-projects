@@ -6,7 +6,7 @@ My first hands-on Data Science projects using Python, covering data visualizatio
 - Visualized student performance using a bar chart
 - Dataset: student_marks.csv
 
-![Bar Chart](images/bar_chart.png)
+![Bar Chart]
 
 ---
 
@@ -16,7 +16,7 @@ My first hands-on Data Science projects using Python, covering data visualizatio
 - Accuracy: 96% R-squared
 - Dataset: sales_data.csv
 
-![Linear Regression](images/linear_regression_plot.png)
+![Linear Regression]
 
 ---
 
@@ -26,7 +26,7 @@ My first hands-on Data Science projects using Python, covering data visualizatio
 - Accuracy: 100% on test dataset
 - Dataset: student_marks.csv
 
-![Logistic Regression](images/logistic_regression_plot.png)
+![Logistic Regression]
 
 ---
 
